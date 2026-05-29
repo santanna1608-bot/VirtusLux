@@ -1,0 +1,6 @@
+{
+  "name": "Virtus Lux",
+  "description": "Assinatura premium de rituais coletivos de alta potência liderada pelo magista Destro Mago.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
